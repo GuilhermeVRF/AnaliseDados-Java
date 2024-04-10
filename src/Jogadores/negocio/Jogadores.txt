@@ -1,0 +1,49 @@
+Pedro, Atacante, 24, Flamengo, 20
+Igor Gomes, Meio-campista, 22, São Paulo, 10
+Rodrigo Caio, Defensor, 28, Flamengo, 5
+Claudinho, Meio-campista, 25, Bragantino, 15
+Gerson, Meio-campista, 24, Flamengo, 8
+Gilberto, Atacante, 32, Bahia, 17
+Lucca, Atacante, 31, Fluminense, 12
+Jean Pyerre, Meio-campista, 23, Grêmio, 7
+Arana, Defensor, 24, Atlético Mineiro, 3
+Gabigol, Atacante, 25, Flamengo, 22
+Rony, Atacante, 26, Palmeiras, 14
+Edenilson, Meio-campista, 31, Internacional, 9
+Thiago Galhardo, Meio-campista, 31, Internacional, 11
+Marinho, Atacante, 31, Santos, 18
+Luciano, Atacante, 29, São Paulo, 16
+Thiago Heleno, Defensor, 32, Athletico Paranaense, 2
+Yuri Alberto, Atacante, 21, Internacional, 13
+Renato Kayzer, Atacante, 25, Athletico Paranaense, 10
+Paulinho, Atacante, 22, Bragantino, 9
+Taison, Meio-campista, 34, Internacional, 7
+Diego Souza, Atacante, 36, Grêmio, 19
+Marquinhos Gabriel, Meio-campista, 32, Athletico Paranaense, 6
+João Paulo, Meio-campista, 31, Santos, 4
+Vina, Meio-campista, 29, Ceará, 14
+Luiz Adriano, Atacante, 34, Palmeiras, 11
+Hulk, Atacante, 35, Atlético Mineiro, 25
+Patrick, Meio-campista, 29, Internacional, 5
+Everton Ribeiro, Meio-campista, 33, Flamengo, 6
+Vitinho, Atacante, 28, Flamengo, 8
+Bruno Henrique, Atacante, 31, Flamengo, 21
+João Paulo, Meio-campista, 31, Santos, 4
+Róger Guedes, Atacante, 25, Corinthians, 17
+Vini Jr., Atacante, 22, Flamengo, 9
+Gabriel Menino, Meio-campista, 21, Palmeiras, 4
+Gustavo Scarpa, Meio-campista, 27, Palmeiras, 10
+Fernando Sobral, Meio-campista, 27, Ceará, 11
+Ramírez, Meio-campista, 26, Internacional, 7
+Brenner, Atacante, 21, Fluminense, 12
+Nenê, Meio-campista, 40, Fluminense, 9
+Thiago Neves, Meio-campista, 36, Sport, 6
+Gilberto, Atacante, 31, Bahia, 7
+Matheus Babi, Atacante, 24, Fluminense, 9
+Kaio Jorge, Atacante, 19, Santos, 11
+Fred, Atacante, 38, Fluminense, 16
+Arrascaeta, Meio-campista, 27, Flamengo, 10
+Carlos Sánchez, Meio-campista, 37, Santos, 5
+David, Atacante, 26, Fortaleza, 10
+Rodriguinho, Meio-campista, 33, Bahia, 9
+Yago Pikachu, Meio-campista, 29, Fortaleza, 12
