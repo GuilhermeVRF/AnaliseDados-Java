@@ -13,6 +13,7 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.Map;
 import java.util.Optional;
+import java.util.function.Supplier;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.stream.Collectors;
@@ -41,10 +42,10 @@ public class JogadorImpl {
             Stream<String> linhas = Files.lines(caminho);
             List<String> listaLinhas = linhas.collect(Collectors.toList());
             
-            for(String linha : listaLinhas){
-                String dado[] = linha.split(", ");
+            listaLinhas.forEach(linha -> {
+                String[] dado = linha.split(", ");
                 listaJogadores.add(new Jogador(dado[0], dado[1], Integer.parseInt(dado[2]), dado[3], Integer.parseInt(dado[4])));
-            }   
+            });
         } catch (IOException ex) {
             Logger.getLogger(JogadorImpl.class.getName()).log(Level.SEVERE, null, ex);
         }
