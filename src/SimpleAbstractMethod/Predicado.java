@@ -7,8 +7,7 @@ package SimpleAbstractMethod;
 /**
  *
  * @author Guilherme
- * @param <T>
  */
-public interface MaiorNumero<T extends Number> {
-    public boolean éMaior(T num1, T num2);
+public interface Predicado<T> {
+    public boolean testar(T t);
 }
